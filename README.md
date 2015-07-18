@@ -4,6 +4,9 @@ You downloaded the matching SRT subtitles but they are out of phase?
 * ###What is this?
 ShiftSubtitles is a short script that readjust your subtitles given a number representing the seconds out of phase
 
+* ###Prerequisites
+You should have [ruby v2.2.0 installed](https://www.ruby-lang.org/en/documentation/installation/ "Install Ruby")
+
 * ###How to use it?
   1.**Clone this repository** You may also want to place your subtitles (.srt file) inside the cloned folder
 
